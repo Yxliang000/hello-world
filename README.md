@@ -61,4 +61,5 @@ Pull Request是GitHub上合作的核心。当你打开一个拉取请求时，�
 
 要了解更多关于Pull Request的功能，我们推荐阅读GitHub流程指南。您也可以访问GitHub Explore并参与开源项目：octocat：
 
-提示：查看我们的其他指南，YouTube频道和按需培训，了解如何开始使用GitHub。
+
+localchange
