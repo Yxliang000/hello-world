@@ -59,6 +59,5 @@ Pull Request是GitHub上合作的核心。当你打开一个拉取请求时，�
 打开并合并了一个合并请求
 看看你的GitHub配置文件，你会看到你的新贡献广场！
 
-要了解更多关于Pull Request的功能，我们推荐阅读GitHub流程指南。您也可以访问GitHub Explore并参与开源项目：octocat：
 
 https://github.com/Yxliang000/hello-world.git
